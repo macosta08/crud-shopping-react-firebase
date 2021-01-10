@@ -1,9 +1,7 @@
-# CRUD with Create React App - Firebase
+# CRUD con Create React App - Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es creado con [Create React App y Firebase](https://crud-shopping-react-firebase.netlify.app/).
 
-## Available Scripts
+## Se utilizan React-Firebase-Hooks
 
-In the project directory, you can run:
-
-### `npm start`
+- UseCollection
